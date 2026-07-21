@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "DWm8+UISmcQ=",
+  "success": true,
+  "projectFilePath": "c:\\Dev-Azure\\UtilityLibrarynew\\UtilityLibrarynew.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sadanandan.varadhara\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\sadanandan.varadhara\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

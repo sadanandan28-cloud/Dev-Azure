@@ -1,0 +1,3 @@
+c:\Dev-Azure\UtilityLibrarynew\bin\Debug\netstandard2.0\publish\UtilityLibrarynew.dll
+c:\Dev-Azure\UtilityLibrarynew\bin\Debug\netstandard2.0\publish\UtilityLibrarynew.deps.json
+c:\Dev-Azure\UtilityLibrarynew\bin\Debug\netstandard2.0\publish\UtilityLibrarynew.pdb
